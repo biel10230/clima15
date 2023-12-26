@@ -1,0 +1,12 @@
+body{
+    padding: 0px;
+    background-color: black;
+   display:flex;
+    justify-content: left;
+    width: 50px;
+    height: 100px;
+    border-width: 50px;
+}
+.left{
+    text-align: left;
+}
